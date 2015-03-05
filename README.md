@@ -1,5 +1,5 @@
 # norecaptcha-python3
- Python 3 client forGoogle No CAPTCHA reCAPTCHA services.
+ Python 3 server-side library for google No CAPTCHA reCAPTCHA services.
 
 Installation
 ==============
