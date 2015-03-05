@@ -16,7 +16,4 @@ Example of use
     if not r.is_valid:
         raise Exception('Invalid captcha')
 
-Fork of:
-
-https://github.com/oursky/norecaptcha
-to match the recently update of Google Captcha usage.
+This project is a fork of: https://github.com/oursky/norecaptcha
