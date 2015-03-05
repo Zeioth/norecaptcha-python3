@@ -3,7 +3,7 @@
 
 Installation
 ==============
-sudo pip install norecaptcha-python3
+    sudo pip install norecaptcha-python3
 
 Example of use
 ==============
