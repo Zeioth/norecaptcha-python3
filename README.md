@@ -3,10 +3,11 @@
 
 Installation
 ==============
-    sudo pip install norecaptcha-python3
+    pip install norecaptcha-python3
 
 Example of use
 ==============
+   ```python
     from norecaptcha3.captcha import submit
     
     # Check captcha
@@ -15,5 +16,5 @@ Example of use
                secret_key=captcha_secret)
     if not r.is_valid:
         raise Exception('Invalid captcha')
-
+    ´´´
 This project is a fork of: https://github.com/oursky/norecaptcha
