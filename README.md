@@ -16,5 +16,5 @@ Example of use
                secret_key=captcha_secret)
     if not r.is_valid:
         raise Exception('Invalid captcha')
-    ´´´
+    ```
 This project is a fork of: https://github.com/oursky/norecaptcha
